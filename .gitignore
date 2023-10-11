@@ -1,0 +1,4 @@
+# Ignore config files
+/shelf/
+/workspace.xml
+config.json
